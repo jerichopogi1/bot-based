@@ -209,7 +209,7 @@ def result():
                             "url": thumbnail_url,
                         },
                         "author": {
-                            "name": "Test Mgui - Results", 
+                            "name": "Voltex Bot - Results", 
                             "url": "", 
                         },
                         "color": 0x000d21,
