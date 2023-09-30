@@ -198,8 +198,8 @@ def result():
 
 
             embed = {
-                "username": "Test Mgui ",
-                "avatar_url": "https://yt3.googleusercontent.com/FhDSZHUteOxNvKiNpCStHHiBc24KlkODDmLyS4Wp324NaGkO6FrS93ewubrWnM7BhpCrn9iXkIg=s900-c-k-c0x00ffffff-no-rj",
+                "username": "Voltex Bot - Result",
+                "avatar_url": "https://cdn.discordapp.com/attachments/1157211722554286120/1157216570901274696/download.png?ex=6518762a&is=651724aa&hm=5841c6c9be3123199f136cacc0eca64be7056271b875eebfe51789d31d9495eb&",
                 "embeds": [
                     {
                         "title": "**[Click Here to View Profile]**",
