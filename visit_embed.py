@@ -178,8 +178,8 @@ def visit():
                         discord_id = row[disc_id_index]
 
             embed = {
-                "username": "Test Mgui ",
-                "avatar_url": "https://yt3.googleusercontent.com/FhDSZHUteOxNvKiNpCStHHiBc24KlkODDmLyS4Wp324NaGkO6FrS93ewubrWnM7BhpCrn9iXkIg=s900-c-k-c0x00ffffff-no-rj",
+                "username": "Voltex - Bot",
+                "avatar_url": "https://cdn.discordapp.com/attachments/1157211722554286120/1157216570901274696/download.png?ex=6518762a&is=651724aa&hm=5841c6c9be3123199f136cacc0eca64be7056271b875eebfe51789d31d9495eb&",
                 "embeds": [
                     {
                         "title": "**[Click Here to View Profile]**",
@@ -189,7 +189,7 @@ def visit():
                             "url": thumbnail_url,
                         },
                         "author": {
-                            "name": "Test Mgui - Visit", 
+                            "name": "Voltex Bot - Visit", 
                             "url": "", 
                         },
                         "color": 0x000d21,
@@ -238,8 +238,8 @@ def visit():
 
 
             embed_all_visit = {
-                "username": "Test Mgui",
-                "avatar_url": "https://yt3.googleusercontent.com/FhDSZHUteOxNvKiNpCStHHiBc24KlkODDmLyS4Wp324NaGkO6FrS93ewubrWnM7BhpCrn9iXkIg=s900-c-k-c0x00ffffff-no-rj",  # You can provide the avatar URL for your bot here
+                "username": "Voltex Mgui",
+                "avatar_url": "https://cdn.discordapp.com/attachments/1157211722554286120/1157216570901274696/download.png?ex=6518762a&is=651724aa&hm=5841c6c9be3123199f136cacc0eca64be7056271b875eebfe51789d31d9495eb&",  # You can provide the avatar URL for your bot here
                 "embeds": [
                     {
                         "description": f"**Discord** <@{discord_id}>",
@@ -247,7 +247,7 @@ def visit():
                             "url": thumbnail_url,
                         },
                        "author": {
-                            "name": "Test Mgui - All Visit", 
+                            "name": "Voltex Bot - All Visit", 
                             "url": "", 
                         },
                         "color": 0x000d21,
